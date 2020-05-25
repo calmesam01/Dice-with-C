@@ -1,7 +1,7 @@
 # Dice-with-C
 A console based client-server multiplayer dice game with advanced C programming using sockets.
 
-## To run - 
+## Commands to run - 
 1. gcc server.c -o server
 2. gcc client.c -o client
 3. ./server portNo
